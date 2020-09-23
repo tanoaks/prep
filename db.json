@@ -1,6 +1,6 @@
 {"data":[
-      { "age": '19', "name": 'akshay' },
-      { "age": '20', "name": 'akshay2' },
-      { "age": '21', "name": 'akshay3' },
-      { "age": '22', "name": 'akshay4' }
+      { "age": 19, "name": "akshay" },
+      { "age": 20, "name": "akshay2" },
+      { "age": 21, "name": "akshay3" },
+      { "age": 22, "name": "akshay4" }
     ]}
